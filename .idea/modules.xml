@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Work-WsManager.iml" filepath="$PROJECT_DIR$/Work-WsManager.iml" group="WsManager" />
       <module fileurl="file://$PROJECT_DIR$/WsManager.iml" filepath="$PROJECT_DIR$/WsManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/WsManager-app.iml" filepath="$PROJECT_DIR$/app/WsManager-app.iml" group="WsManager/app" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp-ws-example/WsManager-okhttp-ws-example.iml" filepath="$PROJECT_DIR$/okhttp-ws-example/WsManager-okhttp-ws-example.iml" group="WsManager/okhttp-ws-example" />
+      <module fileurl="file://$PROJECT_DIR$/rx-wsmanager/WsManager-rx-wsmanager.iml" filepath="$PROJECT_DIR$/rx-wsmanager/WsManager-rx-wsmanager.iml" group="WsManager/rx-wsmanager" />
+      <module fileurl="file://$PROJECT_DIR$/wsmanager/WsManager-wsmanager.iml" filepath="$PROJECT_DIR$/wsmanager/WsManager-wsmanager.iml" group="WsManager/wsmanager" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/okhttp-ws-example/okhttp-ws-example.iml" filepath="$PROJECT_DIR$/okhttp-ws-example/okhttp-ws-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/rx-wsmanager/rx-wsmanager.iml" filepath="$PROJECT_DIR$/rx-wsmanager/rx-wsmanager.iml" />

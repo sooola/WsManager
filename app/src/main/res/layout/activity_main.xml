@@ -31,7 +31,7 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:layout_toLeftOf="@id/btn_connect"
-    android:text="ws://121.40.165.18:8088" />
+    android:text="wss://ehos.corsyn.com/ehospital/patient/msg/textImageWebSocket/sendUserId=ab7121ab31c4456e8cf023902152c5e1" />
 
   <TextView
     android:id="@+id/btn_clear"
